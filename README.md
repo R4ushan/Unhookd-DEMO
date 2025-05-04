@@ -1,4 +1,4 @@
-# unhookd (Swift Demo – v1)
+# Unhookd (Swift Demo – v1)
 
 **unhookd** is a mobile app dedicated to helping individuals mitigate addiction by providing tools for habit tracking, motivation, and support. This repository contains the **first iteration demo** of unhookd, built in **Swift** during **Bitcamp 2025**.
 
