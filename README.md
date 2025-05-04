@@ -12,7 +12,7 @@ Our mission is to empower users on their recovery journey from addiction—wheth
 
 - **Swift**
 - **Xcode**
-- Basic UI elements to demonstrate core functionality
+- Basic UI elements to demonstrate core functionality(Designed in Figma)
 
 ## 🌱 Coming Soon
 
