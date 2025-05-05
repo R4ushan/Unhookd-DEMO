@@ -2,7 +2,7 @@
 
 **unhookd** is a mobile app dedicated to helping individuals mitigate addiction by providing tools for habit tracking, motivation, and support. This repository contains the **first iteration demo** of unhookd, built in **Swift** during **Bitcamp 2025**.
 
-> ⚠️ **Note:** This version is a prototype. We are transitioing the app to **React Native** with in **Firebase** and using gemini api for custom context trained chatbot. Future iterations to support cross-platform functionality (iOS and Android).
+> ⚠️ **Note:** This version is a prototype. We are transitioning the app to **React Native** with **Firebase** and using gemini api for custom context trained chatbot. Future iterations to support cross-platform functionality (iOS and Android).
 
 ## 🎯 Project Vision
 
