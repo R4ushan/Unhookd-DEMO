@@ -14,13 +14,6 @@ Our mission is to empower users on their recovery journey from addiction—wheth
 - **Xcode**
 - Basic UI elements to demonstrate core functionality(Designed in Figma)
 
-## 🌱 Coming Soon
-
-- Full rewrite using **React Native**
-- Enhanced backend integration (Firebase/Supabase/etc.)
-- Cross-platform support
-- More user features based on user feedback
-
 ## 🎥 Demo
 
 Watch a quick demo of the first iteration here: [Video Demo](https://youtu.be/e8hOp8PS4UM)
